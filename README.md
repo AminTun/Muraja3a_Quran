@@ -1,3 +1,5 @@
+<img width="2163" height="330" alt="image" src="https://github.com/user-attachments/assets/155c0b8a-b2af-4b26-9e65-859881cd9a47" />
+
 # Muraja3a_Quran
 <img width="192" height="192" alt="ic_launcher_round" src="https://github.com/user-attachments/assets/a4113f29-cb40-48ef-90b4-1a5ef2a2b3f8" />
 
