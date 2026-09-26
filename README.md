@@ -1,6 +1,8 @@
 # Muraja3a_Quran
+<img width="192" height="192" alt="ic_launcher_round" src="https://github.com/user-attachments/assets/a4113f29-cb40-48ef-90b4-1a5ef2a2b3f8" />
 
-How It Works
+# How It Works
+
 This app helps you create a smart daily revision schedule for the portions of the Quran you have memorized.
 
 
